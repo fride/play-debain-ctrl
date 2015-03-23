@@ -1,0 +1,3 @@
+#!/bin/sh
+
+echo "I should be the only contents of this postrm file!"
